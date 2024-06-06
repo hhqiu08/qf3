@@ -1,0 +1,10 @@
+json5==0.9.6
+jsonpatch==1.32
+jsonpointer==2.1
+jsonschema==4.17.3
+requests==2.31.0
+requests-file==1.5.1
+requests-toolbelt==1.0.0
+responses==0.13.3
+streamlit==1.35.0
+streamlit-chat==0.1.1
